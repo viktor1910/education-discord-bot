@@ -1,1 +1,1 @@
-console.log('Hello worlds');
+import './bot';
